@@ -1,0 +1,9 @@
+public class Hellow
+{
+public static void main(String args[])
+{
+System.out.println("Hello world....1");
+System.out.println("Hello selva....1");
+System.out.println("Hello selva....2");
+}
+}
